@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\bin\Debug\netcoreapp2.1\SearchApp2.deps.json
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\bin\Debug\netcoreapp2.1\SearchApp2.runtimeconfig.json
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\bin\Debug\netcoreapp2.1\SearchApp2.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\bin\Debug\netcoreapp2.1\SearchApp2.dll
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\bin\Debug\netcoreapp2.1\SearchApp2.pdb
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\obj\Debug\netcoreapp2.1\SearchApp2.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\obj\Debug\netcoreapp2.1\SearchApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\obj\Debug\netcoreapp2.1\SearchApp2.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\obj\Debug\netcoreapp2.1\SearchApp2.AssemblyInfo.cs
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\obj\Debug\netcoreapp2.1\SearchApp2.dll
+C:\Users\User\Source\Repos\SearchApp\SearchApp2\obj\Debug\netcoreapp2.1\SearchApp2.pdb

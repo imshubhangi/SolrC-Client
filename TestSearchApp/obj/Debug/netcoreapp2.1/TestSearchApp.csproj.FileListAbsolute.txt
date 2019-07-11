@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\TestSearchApp.deps.json
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\TestSearchApp.runtimeconfig.json
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\TestSearchApp.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\TestSearchApp.dll
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\TestSearchApp.pdb
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\SearchApp2.dll
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\bin\Debug\netcoreapp2.1\SearchApp2.pdb
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\obj\Debug\netcoreapp2.1\TestSearchApp.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\obj\Debug\netcoreapp2.1\TestSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\obj\Debug\netcoreapp2.1\TestSearchApp.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\obj\Debug\netcoreapp2.1\TestSearchApp.AssemblyInfo.cs
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\obj\Debug\netcoreapp2.1\TestSearchApp.csproj.CopyComplete
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\obj\Debug\netcoreapp2.1\TestSearchApp.dll
+C:\Users\User\Source\Repos\SearchApp\TestSearchApp\obj\Debug\netcoreapp2.1\TestSearchApp.pdb
